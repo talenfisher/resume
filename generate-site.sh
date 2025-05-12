@@ -1,5 +1,6 @@
 #!/bin/bash
 GENERATE_STATIC_FILES_ONLY=true dotnet run
+git stash
 git checkout gh-pages
 cp -r bin/static/* .
 git add .
