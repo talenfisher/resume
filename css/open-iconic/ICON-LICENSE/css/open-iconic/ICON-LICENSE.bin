@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base href="/" />
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link href="css/global.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link href="resume.styles.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="favicon.png"/>
+    <!--Blazor:{"type":"server","prerenderId":"0219c389745946d8bdee8c222c0004ae","key":{"locationHash":"F0D08B7EDA2582111DC0201BF7AE993F27FDC7A8:0","formattedComponentKey":""},"sequence":0,"descriptor":"CfDJ8AbRuvpAV0tLsfXPjBLBZuGYlDp9k4GODNomuo2RQFz/2j1FwUtRkmb9ln0wuHcEAe8\u002BMdC9cOcFkCIqiCI/KLWVWAwaysBR514Ig1VCh8ATGdy1w2QuD\u002BGiGCXNMKIvor9yAK51xNgKSe6xzFcku2RsVGkL\u002B9Zz00TVxy1x/PuXct8rX\u002B1uJYSP0vz5x3l/Ok3ewsYHVwULDF8Zk13mtPCAHJExi9Hlq\u002B8IdWAa/r6W6g1lgwH1Nqb0LR5daYEfawm0bDlJPpm6zxF70jRsrvzpYlRpdOO9e6TGumhBnZA42BRGJvRkzR5STNvOppUMEi82h8SUbAbIg/y\u002BPaS\u002BweJ8FqQH4Ykj6Udr7xFimqwNaK8mZVneZkC4RntxVKypzsovUwvefA90mq7is02jbZO0TAz/0HPq/gt21rA\u002BNH4Gjxu9WxzBup2HwWtYzqDJGtOx/R7r0K\u002BdmLxPxZXbD3urh1ChgZCeGbt\u002BjI8uIDlkwD0zyhqPIibG\u002Bt/oMinVajCwD8tks\u002BTMcDAn5\u002BkNQrWyJFpEdF5fkfFrrTljaNCQ"}--><title>Talen Fisher - Resume</title><!--Blazor:{"prerenderId":"0219c389745946d8bdee8c222c0004ae"}-->
+</head>
+<body>
+    <!--Blazor:{"type":"server","prerenderId":"1c8a7e80c35d4e54a442e8c0db1ac72d","key":{"locationHash":"77F6D5E66B74102B9A1388125985D84F17A0CDB0:0","formattedComponentKey":""},"sequence":1,"descriptor":"CfDJ8AbRuvpAV0tLsfXPjBLBZuEu6D0AM53RBHskAUDlc5nUzu2wv7kRmlX0XzTnROjcnwy5SBekl4qTurJK2egWdx7\u002BDeLpSYF2bcQ6VG9hc9j3UT4tIP9TjDXs\u002BvKscwm/6B6msJWl2ShXobSCsfHFIh2Kx\u002BermJ2rWV09rC1tKY0pMF0Rt950xhT0BXdvgaiW0hCNgYgk21Tlh33pMxIS/HxKCB2U0TAVY\u002B/5ou29xRZNpj\u002Br3az8MAdTWqOCBs8VjfKgTSlGBgMObBeUH4uBS2DY/Kr8JNTyoPH4CAV2OZd619AB/H54Qv\u002B1pHjm5I2\u002BeH97TMkWXqcoPBQg0YfyFDk76JTWtB5v9qO0C25D1SXljL\u002B9SAOYJB68tqo6cWh0fF2i/0ferfdMLK2I19I7cqmm1NFxQ5FtkRI4gtPpj19P5kA/aCsUwPhy8K\u002B54Et5Yj8W7jiLH/tub4lHI\u002BDWlUg="}-->
+        
+
+<div class="page" b-cfrm8ncsc5><aside b-cfrm8ncsc5><h1 b-xl8dfzf88e>Talen Fisher</h1>
+<p b-xl8dfzf88e>Full-Stack Software & Infra Engineer</p>
+
+<div class="contact" b-xl8dfzf88e><div b-xl8dfzf88e><i class="fa-solid fa-location" b-xl8dfzf88e></i> Des Moines, IA</div>
+    <div b-xl8dfzf88e><i class="fa-solid fa-phone" b-xl8dfzf88e></i> +1 515-333-2929</div>
+    <div b-xl8dfzf88e><i class="fa-solid fa-envelope" b-xl8dfzf88e></i> talen.fisher@cythral.com</div>
+    <div b-xl8dfzf88e><i class="fa-solid fa-globe" b-xl8dfzf88e></i> cythral.com</div>
+    <div b-xl8dfzf88e><i class="fa-brands fa-github" b-xl8dfzf88e></i> github.com/talenfisher</div></div>
+
+<div class="skills" b-xl8dfzf88e><h2 b-xl8dfzf88e>Skills</h2><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Atlassian Products</h3>
+            <p b-xl8dfzf88e>Confluence, JIRA, Bamboo, Bitbucket</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Databases</h3>
+            <p b-xl8dfzf88e>MySQL, PostgreSQL, Aurora, MongoDB, Realm</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Programming Languages</h3>
+            <p b-xl8dfzf88e>C#, Go, JavaScript, TypeScript, Java, Bash/Shell, PHP, SQL, Python, C&#x2B;&#x2B;</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Frameworks</h3>
+            <p b-xl8dfzf88e>React Native, React, ASP.NET Core, Entity Framework Core, Vue.js, React, Spring/Boot</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Networking</h3>
+            <p b-xl8dfzf88e>TCP/IP, DNS, VPN (OpenVPN), Firewalls (iptables/ufw), Subnetting</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>OS</h3>
+            <p b-xl8dfzf88e>Linux (Debian, Arch, RedHat), MacOS/OSX, Windows</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>Tooling</h3>
+            <p b-xl8dfzf88e>VSCode, SSH, Git, GitHub, Docker, MSBuild, NPM, NuGet, pip, Make</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>AWS</h3>
+            <p b-xl8dfzf88e>CloudFormation, Route53, ECS, ECR, CodeBuild/Pipeline, EC2, ELB, S3, ACM, CloudWatch, IAM, KMS</p></div><div class="skills-section" b-xl8dfzf88e><h3 b-xl8dfzf88e>TDD Frameworks</h3>
+            <p b-xl8dfzf88e>NUnit, Jest, Mocha, PHPUnit, JUnit, Puppeteer</p></div></div>    
+
+<div class="certifications" b-xl8dfzf88e><h2 b-xl8dfzf88e>Certifications</h2>
+    <ul b-xl8dfzf88e><li b-xl8dfzf88e>AWS Cloud Practitioner</li>
+        <li b-xl8dfzf88e>AWS SysOps Administrator</li>
+        <li b-xl8dfzf88e>AWS DevOps Engineer</li></ul></div>
+
+<div class="education" b-xl8dfzf88e><h2 b-xl8dfzf88e>Education</h2>
+    <div b-xl8dfzf88e><div class="education-date" b-xl8dfzf88e>2018-08 - 2020-08</div>
+        <h3 b-xl8dfzf88e>Computer Science, BS</h3>
+        <p b-xl8dfzf88e>Iowa State University</p></div>
+
+    <div b-xl8dfzf88e><div class="education-date" b-xl8dfzf88e>2016-08 - 2018-08</div>
+        <h3 b-xl8dfzf88e>Management Information Systems, AA</h3>
+        <p b-xl8dfzf88e>DMACC</p></div></div></aside>
+
+    <main b-cfrm8ncsc5><article class="content px-4" b-cfrm8ncsc5><p role="alert">Sorry, there's nothing at this address.</p></article></main></div><!--Blazor:{"prerenderId":"1c8a7e80c35d4e54a442e8c0db1ac72d"}-->
+
+    <div id="blazor-error-ui">
+        
+        
+            An unhandled exception has occurred. See browser dev tools for details.
+        
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.server.js"></script>
+    <script src="https://kit.fontawesome.com/495a3f8fe8.js" crossorigin="anonymous"></script>
+</body>
+</html>
