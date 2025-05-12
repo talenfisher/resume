@@ -37,6 +37,8 @@ app.MapBlazorHub();
 app.MapRazorPages();
 app.MapFallbackToPage("/_Host");
 
+var generateOnly = Environment.GetEnvironmentVariable("GENERATE_STATIC_FILES_ONLY") == "true";
+
 Directory.CreateDirectory("bin/static");
-app.GenerateStaticContent("bin/static");
+app.GenerateStaticContent("bin/static", generateOnly);
 app.Run();
