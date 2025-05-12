@@ -1,0 +1,79 @@
+Atlassian Products:
+  - Confluence
+  - JIRA
+  - Bamboo
+  - Bitbucket
+
+Databases:
+  - MySQL
+  - PostgreSQL
+  - Aurora
+  - MongoDB
+  - Realm
+
+Programming Languages:
+  - C#
+  - Go
+  - JavaScript
+  - TypeScript
+  - Java
+  - Bash/Shell
+  - PHP
+  - SQL
+  - Python
+  - C++
+
+Frameworks:
+  - React Native
+  - React
+  - ASP.NET Core
+  - Entity Framework Core
+  - Vue.js
+  - React
+  - Spring/Boot
+
+Networking:
+  - TCP/IP
+  - DNS
+  - VPN (OpenVPN)
+  - Firewalls (iptables/ufw)
+  - Subnetting
+
+OS:
+  - Linux (Debian, Arch, RedHat)
+  - MacOS/OSX
+  - Windows
+
+Tooling:
+  - VSCode
+  - SSH
+  - Git
+  - GitHub
+  - Docker
+  - MSBuild
+  - NPM
+  - NuGet
+  - pip
+  - Make
+
+AWS:
+  - CloudFormation
+  - Route53
+  - ECS
+  - ECR
+  - CodeBuild/Pipeline
+  - EC2
+  - ELB
+  - S3
+  - ACM
+  - CloudWatch
+  - IAM
+  - KMS
+
+TDD Frameworks:
+  - NUnit
+  - Jest
+  - Mocha
+  - PHPUnit
+  - JUnit
+  - Puppeteer

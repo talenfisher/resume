@@ -1,0 +1,39 @@
+﻿@using YamlDotNet.Serialization;
+@page "/"
+
+<PageTitle>Resume</PageTitle>
+
+@{
+    var workFileText = File.ReadAllText("Data/work.yml");
+    var builder = new DeserializerBuilder().Build();
+    var workData = builder.Deserialize<WorkSection[]>(workFileText);
+} 
+
+@foreach(var workSection in workData) {
+    <div class="work-section">
+        <div class="work-head">
+            <h2>@workSection.CompanyName</h2>
+            <div class="work-extradata">
+                <div class="work-role">@workSection.Role</div>
+                <div class="date">@workSection.FromDate - @workSection.ToDate</div>
+            </div>
+        </div>
+        @if(workSection.Description != null) {
+            <p class="work-description">@workSection.Description</p>
+        }
+        <div class="work-projects">
+            @foreach(var project in workSection.Projects) {
+                <div class="project">
+                    <div class="date">@project.FromDate - @project.ToDate</div>
+                    <h3>@project.Title</h3>
+                    <h4>@project.Role</h4>
+                    <ul>
+                        @foreach(var highlight in project.Highlights) {
+                            <li>@highlight</li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+    </div>
+}
