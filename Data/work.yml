@@ -4,6 +4,17 @@
   Role: Consultant
   Description: General responsibilities include system/software development, conducting interviews for potential new teammates, leading meetings and taking on project management roles when needed.
   Projects:
+    - FromDate: 2025-06
+      ToDate: Present
+      Title: Emerson PRESTO Development
+      Role: Full Stack Developer
+      Highlights:
+        - Ensure smooth delivery of an Angular web app backed by multiple C#/.NET-based micro services
+        - Develop new features for phase 2 of the project using C#
+        - Expose new properties and data types in GraphQL
+        - Codify azure infrastructure using Bicep and automate using Azure DevOps pipelines & powershell scripts
+        - Track work in Azure DevOps
+
     - FromDate: 2024-10
       ToDate: 2025-04
       Title: Nutrien Digital Hub Development
